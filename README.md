@@ -1,6 +1,6 @@
 # 🛠️ Delightful Blocks Mod - Issue Tracker 🛠️
 
-Welcome to the heart of Delightful Blocks Mod development! If you've encountered any issues or have suggestions to enhance your experience, you're in the right place. Your feedback is crucial to shaping the future of this enchanting Minecraft modification.
+Welcome to the heart of Delightful Blocks Mod development! If you've encountered any issues or have suggestions to enhance your experience, you're in the right place. Your feedback is crucial to shaping the future of this mod.
 
 ## 🚨 Reporting Issues
 
@@ -26,6 +26,4 @@ Got a brilliant idea for a new feature or enhancement? Share it with the communi
 
 Feel free to collaborate with other community members and developers on existing issues or contribute by submitting pull requests. Together, we can make Delightful Blocks Mod even more incredible!
 
-Thank you for being part of this enchanting journey. Let's build a delightful Minecraft experience together! 🌈✨
-
-[**Go to the Issue Tracker**](#link-to-your-github-issue-tracker)
+# [**Go to the Issue Tracker**](link-to-your-github-issue-tracker](https://github.com/QuiteFrosty/Delightful-Blocks/issues)https://github.com/QuiteFrosty/Delightful-Blocks/issues)
