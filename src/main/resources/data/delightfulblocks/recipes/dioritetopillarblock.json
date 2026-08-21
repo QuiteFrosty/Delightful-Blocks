@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "minecraft:polished_diorite_slab"
+    },
+    {
+      "item": "minecraft:polished_diorite_slab"
+    },
+    {
+      "item": "minecraft:diorite"
+    },
+    {
+      "item": "minecraft:diorite"
+    },
+    {
+      "item": "minecraft:diorite"
+    },
+    {
+      "item": "minecraft:diorite"
+    }
+  ],
+  "result": {
+    "item": "delightfulblocks:pillarblock",
+    "count": 1
+  }
+}

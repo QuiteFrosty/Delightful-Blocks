@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "delightfulblocks:ruinblock",
+    "delightfulblocks:iceyblock",
+    "delightfulblocks:sandrock",
+    "delightfulblocks:brick",
+    "delightfulblocks:brick_pillar",
+    "delightfulblocks:topaz_block"
+  ]
+}
