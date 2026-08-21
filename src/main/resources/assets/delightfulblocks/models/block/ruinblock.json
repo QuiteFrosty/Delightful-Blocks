@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "delightfulblocks:block/66b49830-39ab-41d4-8324-b1cd62bbc4c9",
+    "up": "delightfulblocks:block/66b49830-39ab-41d4-8324-b1cd62bbc4c9",
+    "north": "delightfulblocks:block/66b49830-39ab-41d4-8324-b1cd62bbc4c9",
+    "east": "delightfulblocks:block/66b49830-39ab-41d4-8324-b1cd62bbc4c9",
+    "south": "delightfulblocks:block/66b49830-39ab-41d4-8324-b1cd62bbc4c9",
+    "west": "delightfulblocks:block/66b49830-39ab-41d4-8324-b1cd62bbc4c9",
+    "particle": "delightfulblocks:block/66b49830-39ab-41d4-8324-b1cd62bbc4c9"
+  },
+  "render_type": "solid"
+}

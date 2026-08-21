@@ -1,0 +1,9 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "beach",
+    "desert"
+  ],
+  "features": "delightfulblocks:topaz_block",
+  "step": "underground_ores"
+}

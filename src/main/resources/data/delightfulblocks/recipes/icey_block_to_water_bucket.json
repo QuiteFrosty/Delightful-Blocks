@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "experience": 0,
+  "cookingtime": 245,
+  "ingredient": {
+    "item": "delightfulblocks:iceyblock"
+  },
+  "result": "minecraft:water_bucket"
+}

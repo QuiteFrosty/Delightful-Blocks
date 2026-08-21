@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "delightfulblocks:brick"
+  },
+  "result": "delightfulblocks:brick_pillar"
+}

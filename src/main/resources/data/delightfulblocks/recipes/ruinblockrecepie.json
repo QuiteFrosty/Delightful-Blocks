@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "minecraft:blackstone"
+    },
+    {
+      "item": "minecraft:chiseled_polished_blackstone"
+    },
+    {
+      "item": "minecraft:chiseled_polished_blackstone"
+    },
+    {
+      "item": "minecraft:blackstone"
+    }
+  ],
+  "result": {
+    "item": "delightfulblocks:ruinblock",
+    "count": 1
+  }
+}

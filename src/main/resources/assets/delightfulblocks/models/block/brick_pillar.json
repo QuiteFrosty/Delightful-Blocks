@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "delightfulblocks:block/00fc1221-c5c8-4006-92a8-fb741f6a115c",
+    "particle": "delightfulblocks:block/00fc1221-c5c8-4006-92a8-fb741f6a115c"
+  },
+  "render_type": "solid"
+}

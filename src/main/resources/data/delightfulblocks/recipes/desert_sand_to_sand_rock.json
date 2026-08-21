@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "delightfulblocks:desert_sand"
+    },
+    {
+      "item": "delightfulblocks:desert_sand"
+    },
+    {
+      "item": "delightfulblocks:desert_sand"
+    },
+    {
+      "item": "delightfulblocks:desert_sand"
+    }
+  ],
+  "result": {
+    "item": "delightfulblocks:sandrock",
+    "count": 1
+  }
+}

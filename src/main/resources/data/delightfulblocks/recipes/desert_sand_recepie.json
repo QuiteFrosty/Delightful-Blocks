@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "tag": "minecraft:sand"
+    },
+    {
+      "item": "delightfulblocks:topaz"
+    },
+    {
+      "item": "delightfulblocks:topaz"
+    },
+    {
+      "tag": "minecraft:sand"
+    }
+  ],
+  "result": {
+    "item": "delightfulblocks:desert_sand",
+    "count": 1
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "delightfulblocks:block/3",
+    "up": "delightfulblocks:block/3",
+    "north": "delightfulblocks:block/3",
+    "east": "delightfulblocks:block/3",
+    "south": "delightfulblocks:block/3",
+    "west": "delightfulblocks:block/3",
+    "particle": "delightfulblocks:block/3"
+  },
+  "render_type": "solid"
+}
